@@ -1,0 +1,201 @@
+Date,Category,Payment_modes,Description,Amount,Cashback
+2024-12-30,Insurance,Net Banking,Health Insurance,4521,15
+2024-12-20,Fuel,Net Banking,CNG,1354,12
+2024-12-05,Fees,Gpay,College Fees,979,12
+2024-12-27,Rent,Net Banking,Residential Rent,3669,100
+2024-12-09,Groceries,Gpay,Bakery,2396,12
+2024-12-20,Bills,Gpay,Telephone bill,3569,100
+2024-12-05,Insurance,Gpay,Vehicle Insurance,4169,50
+2024-12-06,Bills,Gpay,Telephone bill,1492,50
+2024-12-15,Rent,Debit Card,Residential Rent,1512,12
+2024-12-28,Rent,Debit Card,Commercial Rent,4746,0
+2024-12-24,Groceries,Cash,Bakery,3741,0
+2024-12-17,Bills,Credit card,Telephone bill,1195,15
+2024-12-01,Groceries,Credit card,Vegeatbles,1948,50
+2024-12-01,Fees,Cash,College Fees,2759,12
+2024-12-19,Groceries,Gpay,Fruits,1725,5
+2024-12-19,Fees,Gpay,School Fees,3236,100
+2024-12-17,Insurance,Gpay,Health Insurance,3985,12
+2024-12-26,Fuel,Credit card,Diesel,242,100
+2024-12-09,Fuel,Cash,CNG,2605,100
+2024-12-25,Rent,Cash,Commercial Rent,29,50
+2024-12-16,Fuel,Credit card,CNG,3046,0
+2024-12-13,Fuel,Net Banking,CNG,1096,100
+2024-12-27,Groceries,Cash,Dairy,3800,0
+2024-12-14,Groceries,Debit Card,Vegeatbles,1231,0
+2024-12-18,Bills,Credit card,Water Bill,2395,12
+2024-12-12,Rent,Credit card,Parking Rent,3610,15
+2024-12-26,Rent,Credit card,Parking Rent,3867,100
+2024-12-15,Fuel,Gpay,Petrol,1602,1000
+2024-12-06,Fuel,Credit card,Diesel,1933,0
+2024-12-05,Fees,Debit Card,School Fees,1140,100
+2024-12-17,Insurance,Credit card,Health Insurance,3903,50
+2024-12-10,Groceries,Net Banking,Vegeatbles,593,12
+2024-12-29,Groceries,Net Banking,Bakery,2547,15
+2024-12-01,Rent,Debit Card,Parking Rent,3381,100
+2024-12-17,Insurance,Gpay,LIC,1449,5
+2024-12-30,Fees,Net Banking,School Fees,2576,50
+2024-12-29,Fees,Debit Card,School Fees,4020,5
+2024-12-06,Insurance,Cash,Vehicle Insurance,2539,50
+2024-12-18,Bills,Debit Card,Water Bill,3499,12
+2024-12-01,Rent,Gpay,Parking Rent,782,5
+2024-12-26,Fuel,Gpay,Diesel,1655,15
+2024-12-23,Fuel,Gpay,Petrol,189,15
+2024-12-01,Insurance,Gpay,LIC,1773,12
+2024-12-10,Groceries,Gpay,Vegeatbles,3856,1000
+2024-12-26,Rent,Gpay,Residential Rent,4439,10
+2024-12-19,Insurance,Net Banking,Health Insurance,4769,5
+2024-12-26,Fuel,Debit Card,CNG,3722,15
+2024-12-01,Fees,Cash,College Fees,4209,100
+2024-12-11,Rent,Debit Card,Commercial Rent,4341,0
+2024-12-17,Groceries,Cash,Bakery,3559,50
+2024-12-05,Groceries,Cash,Bakery,3468,50
+2024-12-06,Insurance,Gpay,Health Insurance,1538,50
+2024-12-15,Rent,Debit Card,Commercial Rent,2589,12
+2024-12-04,Bills,Debit Card,Electricity Bill,1802,15
+2024-12-16,Fuel,Credit card,CNG,4519,0
+2024-12-21,Bills,Credit card,Telephone bill,711,15
+2024-12-01,Insurance,Debit Card,Health Insurance,2007,0
+2024-12-04,Fuel,Debit Card,Diesel,2232,12
+2024-12-02,Fees,Net Banking,School Fees,4472,100
+2024-12-03,Fees,Cash,College Fees,2318,50
+2024-12-27,Fuel,Gpay,CNG,1188,15
+2024-12-20,Insurance,Cash,Health Insurance,4254,5
+2024-12-14,Insurance,Cash,LIC,4443,100
+2024-12-15,Bills,Credit card,Water Bill,2154,10
+2024-12-09,Bills,Net Banking,Water Bill,2785,12
+2024-12-22,Groceries,Debit Card,Bakery,659,10
+2024-12-14,Groceries,Debit Card,Dairy,3051,10
+2024-12-14,Bills,Net Banking,Water Bill,3418,5
+2024-12-15,Fuel,Credit card,Diesel,3702,5
+2024-12-18,Fees,Cash,College Fees,1924,15
+2024-12-12,Fuel,Debit Card,Diesel,3713,15
+2024-12-09,Bills,Gpay,Electricity Bill,3440,10
+2024-12-09,Bills,Net Banking,Electricity Bill,3302,50
+2024-12-13,Groceries,Debit Card,Bakery,2013,0
+2024-12-28,Rent,Net Banking,Parking Rent,3590,50
+2024-12-19,Insurance,Credit card,Vehicle Insurance,3993,1000
+2024-12-18,Groceries,Gpay,Fruits,104,15
+2024-12-18,Fees,Credit card,School Fees,4891,5
+2024-12-08,Insurance,Gpay,Vehicle Insurance,3170,100
+2024-12-02,Groceries,Credit card,Vegeatbles,2249,12
+2024-12-07,Rent,Credit card,Parking Rent,1461,100
+2024-12-14,Fees,Cash,School Fees,1180,100
+2024-12-15,Insurance,Cash,Health Insurance,1971,5
+2024-12-20,Insurance,Cash,Vehicle Insurance,4630,5
+2024-12-09,Bills,Debit Card,Water Bill,1417,50
+2024-12-20,Insurance,Cash,LIC,4666,100
+2024-12-20,Rent,Cash,Commercial Rent,425,100
+2024-12-03,Rent,Net Banking,Parking Rent,4248,1000
+2024-12-11,Bills,Gpay,Telephone bill,4282,1000
+2024-12-28,Rent,Debit Card,Commercial Rent,3808,50
+2024-12-05,Fuel,Cash,Diesel,901,100
+2024-12-01,Insurance,Cash,LIC,769,0
+2024-12-30,Rent,Credit card,Residential Rent,495,10
+2024-12-14,Fuel,Net Banking,Petrol,737,12
+2024-12-16,Groceries,Debit Card,Dairy,3005,10
+2024-12-23,Fuel,Gpay,CNG,2636,15
+2024-12-22,Bills,Gpay,Electricity Bill,1924,100
+2024-12-29,Rent,Debit Card,Residential Rent,4307,10
+2024-12-24,Groceries,Debit Card,Bakery,911,10
+2024-12-19,Fuel,Cash,Petrol,3385,12
+2024-12-09,Rent,Cash,Commercial Rent,4575,1000
+2024-12-10,Bills,Cash,Electricity Bill,1083,12
+2024-12-29,Fees,Net Banking,College Fees,2177,1000
+2024-12-05,Insurance,Credit card,Health Insurance,55,1000
+2024-12-15,Rent,Credit card,Residential Rent,4881,15
+2024-12-08,Fees,Gpay,School Fees,675,15
+2024-12-27,Bills,Net Banking,Water Bill,835,15
+2024-12-10,Fees,Credit card,School Fees,3143,12
+2024-12-04,Groceries,Debit Card,Bakery,2043,50
+2024-12-23,Bills,Credit card,Telephone bill,4077,10
+2024-12-04,Fuel,Credit card,CNG,3254,5
+2024-12-21,Fuel,Cash,Petrol,4159,10
+2024-12-19,Rent,Debit Card,Residential Rent,3657,1000
+2024-12-24,Bills,Credit card,Telephone bill,832,50
+2024-12-10,Groceries,Debit Card,Fruits,3138,15
+2024-12-29,Fuel,Net Banking,Diesel,3351,10
+2024-12-29,Insurance,Credit card,LIC,2810,5
+2024-12-02,Insurance,Cash,Vehicle Insurance,4036,5
+2024-12-21,Fuel,Gpay,Diesel,322,50
+2024-12-13,Rent,Gpay,Commercial Rent,1216,10
+2024-12-16,Groceries,Credit card,Fruits,2631,1000
+2024-12-08,Fees,Credit card,School Fees,4903,100
+2024-12-04,Fuel,Credit card,Petrol,4628,1000
+2024-12-17,Bills,Credit card,Electricity Bill,2666,5
+2024-12-05,Fuel,Credit card,CNG,748,100
+2024-12-26,Fuel,Credit card,CNG,1263,12
+2024-12-07,Bills,Gpay,Water Bill,2653,15
+2024-12-20,Fees,Cash,School Fees,2569,100
+2024-12-18,Fuel,Cash,Diesel,3018,10
+2024-12-21,Insurance,Credit card,LIC,4752,0
+2024-12-30,Bills,Cash,Telephone bill,514,5
+2024-12-04,Groceries,Cash,Vegeatbles,4438,15
+2024-12-14,Fees,Debit Card,School Fees,2126,15
+2024-12-11,Bills,Net Banking,Water Bill,392,1000
+2024-12-23,Insurance,Cash,Health Insurance,1313,10
+2024-12-17,Fees,Credit card,College Fees,4682,100
+2024-12-19,Bills,Cash,Electricity Bill,2670,50
+2024-12-18,Fees,Cash,School Fees,3674,100
+2024-12-29,Groceries,Gpay,Vegeatbles,1429,10
+2024-12-04,Fuel,Net Banking,Diesel,1169,12
+2024-12-29,Fuel,Gpay,CNG,3262,15
+2024-12-04,Bills,Cash,Water Bill,3965,0
+2024-12-03,Fees,Credit card,School Fees,1028,1000
+2024-12-09,Groceries,Net Banking,Fruits,4900,100
+2024-12-10,Fuel,Debit Card,CNG,771,0
+2024-12-07,Groceries,Gpay,Vegeatbles,1855,100
+2024-12-18,Fuel,Gpay,Diesel,4536,1000
+2024-12-03,Bills,Gpay,Electricity Bill,3895,50
+2024-12-30,Rent,Gpay,Commercial Rent,1725,100
+2024-12-24,Insurance,Cash,Health Insurance,336,50
+2024-12-18,Bills,Cash,Electricity Bill,3242,12
+2024-12-16,Fees,Cash,School Fees,3665,5
+2024-12-28,Bills,Gpay,Water Bill,2208,15
+2024-12-07,Bills,Cash,Telephone bill,2835,10
+2024-12-17,Insurance,Debit Card,LIC,3391,0
+2024-12-17,Fuel,Cash,Diesel,2121,1000
+2024-12-20,Bills,Gpay,Telephone bill,3604,5
+2024-12-25,Insurance,Credit card,Vehicle Insurance,3816,5
+2024-12-16,Groceries,Debit Card,Fruits,4597,0
+2024-12-10,Groceries,Credit card,Dairy,645,0
+2024-12-30,Bills,Credit card,Telephone bill,1885,1000
+2024-12-02,Rent,Net Banking,Parking Rent,43,10
+2024-12-26,Fees,Gpay,College Fees,4449,1000
+2024-12-07,Rent,Credit card,Parking Rent,3080,1000
+2024-12-25,Groceries,Credit card,Dairy,666,10
+2024-12-04,Groceries,Gpay,Fruits,2050,12
+2024-12-29,Fees,Cash,School Fees,1658,12
+2024-12-27,Insurance,Credit card,Vehicle Insurance,3059,100
+2024-12-04,Fuel,Debit Card,CNG,1953,10
+2024-12-22,Rent,Net Banking,Commercial Rent,3963,0
+2024-12-11,Fuel,Cash,Petrol,2698,100
+2024-12-04,Fuel,Credit card,Petrol,1729,15
+2024-12-30,Fees,Gpay,School Fees,959,15
+2024-12-26,Rent,Net Banking,Parking Rent,4064,10
+2024-12-30,Fuel,Gpay,Petrol,1468,100
+2024-12-19,Insurance,Cash,LIC,3023,10
+2024-12-03,Fees,Debit Card,School Fees,2369,15
+2024-12-17,Fees,Credit card,School Fees,667,12
+2024-12-23,Bills,Debit Card,Water Bill,61,0
+2024-12-06,Bills,Net Banking,Water Bill,220,50
+2024-12-01,Fuel,Cash,Petrol,1365,50
+2024-12-29,Groceries,Debit Card,Fruits,684,10
+2024-12-03,Groceries,Gpay,Bakery,562,15
+2024-12-13,Groceries,Debit Card,Vegeatbles,637,10
+2024-12-22,Insurance,Debit Card,Vehicle Insurance,681,50
+2024-12-24,Insurance,Net Banking,Vehicle Insurance,3350,1000
+2024-12-20,Fees,Gpay,College Fees,341,50
+2024-12-01,Fees,Credit card,School Fees,4094,100
+2024-12-06,Bills,Cash,Water Bill,843,15
+2024-12-01,Bills,Debit Card,Electricity Bill,1696,1000
+2024-12-29,Fuel,Net Banking,CNG,326,1000
+2024-12-17,Fees,Cash,College Fees,2365,0
+2024-12-05,Bills,Net Banking,Water Bill,2996,1000
+2024-12-05,Bills,Debit Card,Water Bill,2101,15
+2024-12-18,Fees,Credit card,College Fees,729,12
+2024-12-07,Fees,Net Banking,School Fees,1520,10
+2024-12-23,Fees,Credit card,College Fees,3123,0
+2024-12-13,Rent,Cash,Residential Rent,1222,10
+2024-12-25,Rent,Debit Card,Parking Rent,1352,50
+2024-12-24,Fees,Debit Card,College Fees,4166,50
